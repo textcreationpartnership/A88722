@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last dying speeches and confession of the six prisoners who were executed at Tyburn this 17th of September, 1680 With the acccount [sic] of their behaviour in Newgate, and at the place of execution. With many remarkable passages worthy to be observed. The names of the executed persons are as followeth, viz. George Cole, Tho. Sutton, alias Browne, Tibia Hog, Mary Bucknall, Edward Willis, Edmund Dubber. With the account of their crimes for which they suffered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88722</idno>
+            <idno type="STC">Wing L481A</idno>
+            <idno type="STC">ESTC R213473</idno>
+            <idno type="EEBO-CITATION">99896510</idno>
+            <idno type="PROQUEST">99896510</idno>
+            <idno type="VID">132465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last dying speeches and confession of the six prisoners who were executed at Tyburn this 17th of September, 1680 With the acccount [sic] of their behaviour in Newgate, and at the place of execution. With many remarkable passages worthy to be observed. The names of the executed persons are as followeth, viz. George Cole, Tho. Sutton, alias Browne, Tibia Hog, Mary Bucknall, Edward Willis, Edmund Dubber. With the account of their crimes for which they suffered.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Davies,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cole, George, d. 1680 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132465:1" rendition="simple:additions"/>
+            <head>THE Laſt Dying Speeches and Confeſsion Of the Six Priſoners Who were Executed at <hi>TYB<g ref="char:V">Ʋ</g>RN</hi> This 17th of <hi>September,</hi> 1680. WITH THE ACCCOUNT Of their Behaviour in <hi>Newgate,</hi> and at the place of Execution. With many remarkable paſſages worthy to be obſerved.</head>
+            <p>The Names of the Executed perſons are as followeth, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>George Cole,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Sutton,</hi> alias <hi>Browne,</hi>
+                  </item>
+                  <item>
+                     <hi>Tibia Hog,</hi>
+                  </item>
+                  <item>
+                     <hi>Mary Bucknall,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Willis,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmund Dubber.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With the Account of their Crimes for which they ſuffered.</p>
+            <div type="criminal">
+               <p>FIrſt <hi>Thomas Sutton</hi> and <hi>Elizabeth Browne,</hi> pretended to be his Wife, were Ar<g ref="char:EOLhyphen"/>raigned and brought upon their Tryals, for Breaking and Robbing the Houſe of Mr. <hi>Richard King,</hi> a Mercer upon the <hi>Bridge,</hi> in the Pariſh of St. <hi>Olives Southwark;</hi> the manner of the Robbery was as follows: The two per<g ref="char:EOLhyphen"/>ſons before-mentioned, on the 8th of <hi>Auguſt</hi> laſt, being Sabbath day, as it is ſuppo<g ref="char:EOLhyphen"/>ſed, having Intelligence that Mr. <hi>King</hi> and all his Family (except his Maid-ſervant, by name <hi>Joan Elge</hi>) was gone to Church, came and knocked at the door; upon which, the Maid peeping through the Key-hole, demanded what they would have? their anſwer was, That they were friends of Mr. <hi>Kings,</hi> and would needs ſpeak with him: the Maid replyed he was not within: to which <hi>Sutton</hi> anſwered, that his Wife and he were newly come out of the Countrey, and that the Air was not agreeing with her, ſhe was taken ſick coming over the <hi>Bridge,</hi> and that if ſhe would open the door, they would ſtay till Mr. <hi>King</hi> come home; upon which ſhe opened it and let them in, they telling her that they were her Maſters Cozens, and ſeem<g ref="char:EOLhyphen"/>ed much to admire the Furniture of the Houſe, commending it above whatever they ſaw in the Country; the Woman ſtill feigning herſelf ſick: and ſo cunning were they, that they would not believe the Wench, though ſhe ſeveral times affirm<g ref="char:EOLhyphen"/>ed there was none at home but her ſelf; till asking for a Vault, ſhe told him, it was up ſtairs at the top of the Houſe, where going up, he ſtaid but a very ſhort time, and then coming down again, went ſeemingly to kiſs the Maid, and thereupon clapt his hands to her Throat, ſaying, <hi>He came for Money;</hi> at which ſurpriz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe crying out, the Woman cry'd, <hi>God dam her cut her Throat,</hi> and thereupon both of them falling upon her, bound her, and then ſearching for a Knife, at laſt found one,
+<pb n="2" facs="tcp:132465:2"/>
+with which they endeavoured to cut her Throat; but ſhe with ſtrugling got her hands looſe, and wreſted the Knife out of their hands, upon which they binding her faſter, upon promiſe ſhe would no more cry out, left her, and went to breaking open the Trunks and Cheſts, and got one Silver Baſon, ſix Silver Plates, two dozen of Spoons, two Tankards, one Sugar-diſh; and then breaking open the ſhop-door, got a hundred and ninety ſeven pounds in money; but in the time they were plun<g ref="char:EOLhyphen"/>dering, the Maid got looſe, though all bloody, ſhut her ſelf into a Room, and cryed out Thieves, Murther; upon which ſeveral of the Neighbours coming, broke open the door, but e're they came into the Houſe, the now Priſoners were got out of the Cellar-windows upon the Piles, where the Woman was taken, and ſhortly after the Man, who was got off in a Boat; upon ſearching of him, there was about fifteen pounds found in his breeches, the reſt they onely removed, but had no opportuni<g ref="char:EOLhyphen"/>ty of carrying it away Upon their Tryals they pleaded both guilty to the Felony, and were by the Jury brought in guilty of the ſame, and received Sentence of Death. But <hi>Elizabeth Browne</hi> upon being asked what ſhe could ſay to ſtay Execution, pleaded ſhe was with Child, the which by a Jury of Women was found to be true, and ſhe Reprieved till ſhe ſhall be Delivered. <hi>Sutton alias More,</hi> according to Sentence Executed; his Behaviour was very meek, and ſeemed to be very ſen<g ref="char:EOLhyphen"/>ſibly of his latter end, and with much bewailing of his deſperate and deplorable condition, continued till the Execution put a period to his days.</p>
+            </div>
+            <div type="criminal">
+               <p>
+                  <hi>Tibia Hog</hi> was Tryed for ſtealing two pieces of Indian Silk from <hi>Thomas Sutten</hi> Indian gown ſeller in the <hi>New Exchange</hi> in the <hi>Strand:</hi> ſhe coming to his ſhop, cheapned ſeveral parcels of ſilk, and thereby took the opportunity whilſt they were buſie, to ſlip two pieces under her Coats, valued at ten pounds; but being perceived by a youth that ſtood in an oppoſite ſhop, who told Mr. <hi>Suttel</hi> of the ſame, he went to ſearch her, whereupon ſhe dropped the ſame. Upon her Tryal ſhe denyed that ever ſhe touched, or had any ſuch parcel of Silk; but the Evidence was ſo plain, that the Jury brought her in guilty of the Felony. And having been known to be a notorious ſhop-lift, received Sentence with the former, much lamenting her hard fate, and exclaimed again her cruel d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtinies, for puſhing her headlong on ſuch danger and utter ruine.</p>
+            </div>
+            <div type="criminal">
+               <p>
+                  <hi>Edward Duffer</hi> was tried for breaking the Shop of <hi>Thomas Weſtwood</hi> a Barber in <hi>Holbourn,</hi> and taking thence eight Razers, three pair of Cizars, three Napkins, one pair of Beard-irons, one Perriwig, and ſeveral other things. The Felony and Burglary were both proved againſt him by his former Confeſſion, and by a Wit<g ref="char:EOLhyphen"/>neſs whom he ſold one of the Razers to, though Newgate had taught him the impudence to deny his former aſſeveration; yet upon the teſtimony that was given againſt him he was brought in guilty of the Felony and Burglary, and for the ſame received Sentence. After which, for ſome time he ſeemed reſolute; but when he ſaw there was no hopes for life, his courage failed him, and he deſired the hearty prayers of ſeveral that came to viſit him, and ſo continued till death.</p>
+            </div>
+            <div type="criminal">
+               <p>
+                  <hi>Mary Bucknal</hi> was tried for Murthering her Male Baſtard-childe on the 24th of <hi>Auguſt</hi> laſt; the manner of the Fact according to the Evidence was as enſues. She living in the Pariſh of St. <hi>Sepulchres,</hi> and lodging with another woman, a<g ref="char:EOLhyphen"/>bout two of the Clock in the Morning found her pains come faſt upon her, aroſe, (the other being ſo faſt aſleep that ſhe perceived it not, as ſhe ſwore) and was by her ſelf delivered, but not ſo ſecretly but that the other Woman heard ſome noiſe; whereupon ſhe asked her what was the matter; to which ſhe repli'd, that ſhe had bought the day before one pennyworth of Damſons, and that by eating them ſhe had ſurfeited her ſelf, the which had caus'd her to Vomit; upon which anſwer
+<pb n="3" facs="tcp:132465:2"/>
+her Bed-fellow went to ſleep: ſhe taking the opportunity thereof, thruſt the Child between the Bed and the Mat, where it was afterwards found: Upon Examina<g ref="char:EOLhyphen"/>tion ſhe denied that ſhe any way made away with the Child<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but that it was ſtill-born, which availed her not; for upon the reading of the Act of Parliament made to prevent ſuch Cruelties, ſhe having none to juſtifie that is was Still-born, was found guilty of the Murther. And as the former, ſo ſhe received Sentence of Cor<g ref="char:EOLhyphen"/>poral Death, and ſeemed ſorry during the intervene, that ſhe dyed her hands in her own Infants Blood, and that ſhe ſhould become Murthereſs of the Infant of her Womb; deſiring all Women and Maids to beware how they are tempted to luſtful deeds, and unlawful deſires, that may be inſtrumental to bring ſhame and ignominy not onely on them, but on their whole poſterity.</p>
+            </div>
+            <div type="criminal">
+               <p>
+                  <hi>George Cole,</hi> of <hi>Biſhops gate-ſtreet London,</hi> was tried for a Felony and Burglary, for robbing his Lodging, breaking open the Doors and Desks therein, and taking thence three or four pair of Flaxen Sheets, two Callico Pillowbeers, two Tablecloths, ſeveral Curtains and Valens, beſides Apparel, as Petticoats, Scarfs and Hoods, as likewiſe Thread and Gimp, all to the value of ſeven or eight pounds; this he effected one Morning before any of the houſe were ſtirring, carrying them clear off without the leaſt diſcovery, leaving one that he pretended was his Wife in bed the mean while. And alſo ſeveral Pick-lock Keys were found that would open all the Houſe-doors, Trunks, Cheſts, and other faſtenings in the houſe; and was ſo impudent as not long after to ſend a Meſſenger for them, and ſome other things he had by over-haſte forgot, whereupon by the directions of the Meſſen<g ref="char:EOLhyphen"/>ger he was apprehended, and now upon Trial denied the Fact; but Mrs. <hi>Davis</hi> who loſt the Goods, and ſeveral belonging to the houſe, atteſting he onely had the Key of the Room and no body elſe, the Jurors gave their Verdict againſt him as to the Felony; but upon enquiry, there being a Record found of his formerly being burnt in the Hand, he was alſo Condemned to Die, ſeeming to be very ob<g ref="char:EOLhyphen"/>ſtinate and careleſs for two days after, as if ſtupified or amazed with the ſenſe he had of deaths near approach; but by the perſwaſions of ſeveral pious perſons who came to viſit the poor afflicted wretches, that then, no doubt, lay under Ago<g ref="char:EOLhyphen"/>nies, to think how dreadful the King of Terrours was, he began to reflect upon E<g ref="char:EOLhyphen"/>ternity, and was perſwaded to prepare himſelf for death.</p>
+            </div>
+            <div type="criminal">
+               <p>
+                  <hi>Edward Willis</hi> being apprehended for Stealing ſeveral Sheep near <hi>Highgate</hi> was committed to <hi>Newgate,</hi> where he remained till he took his Tryal in the <hi>Old Bayley,</hi> and there it was Sworn againſt him by a Felmonger, that he had bought ten Skins of him, and gave him <hi>nine</hi> Pence a piece for each of them: And the man that loſt them finding his Mark upon the Skins, He Challenged and Swore them to be his, ſo that the Priſoner being Caſt, was upon his being found to be for<g ref="char:EOLhyphen"/>merly Burnt in the Hand, Condemned. He begg'd hard for his Life, but ſeveral notorious things being alledged againſt him, he could obtain no Mercy, but was Executed with the reſt, behaving himſelf like a dying man, till he changed for Immortality.</p>
+            </div>
+            <div type="another_criminal">
+               <p>Thus may we ſee how the Devil deludes ſuch as give credit to his wicked Suggeſtions, but at laſt brings them into Miſery, and then leaves them to ſhift, when leaſt able.</p>
+               <p>
+                  <pb n="4" facs="tcp:132465:3" rendition="simple:additions"/>On the Eleaventh of this Inſtant, being <hi>Saturday,</hi> between three and four of the Clock in the Afternoon, was <hi>Elizabeth Cellier</hi> brought upon her Trial, being taken up the day before by a Bench-warrant, granted for that purpoſe by the Juſtices of the Peace for the County of <hi>Middleſex,</hi> for publiſhing a ſcandalous Libel, entituled, <hi>Malice defeated</hi> in which was not onely ſeveral private men ſcandalized, but alſo the whole Government and Laws of the Nation. Several Witneſſes came in againſt her to prove that ſhe was the Author of it, and that ſhe handed the Copy to the Preſs, paying ten ſhillings a ream for printing of it. The Printer ſwore that he printed ſeveral of the Sſheets, in which were contain'd the matter and ſubſtance of the Indictment, which was long, importing that ſhe the ſaid <hi>Elizabeth Cellier,</hi> Wife to <hi>Peter Cellier,</hi> of the Pariſh of St. <hi>Clement</hi>'s <hi>Danes,</hi> had publiſhed in her ſaid ſcandalous Libel, that Racks and Tortures were uſed to make the Catholicks confeſs a Plot when there was none; and that <hi>Praunce</hi> and one <hi>Corrale</hi> a Coachman were ſo ſerved in Newgate; farther laying the in<g ref="char:EOLhyphen"/>humane Murther of his late Majeſty to the charge of the Proteſtants; and that the King's Evidence were Devils, and not men, with ſeveral Reflections upon ſome Peers of this Realm: to all which ſhe pleaded <hi>Ignoramus,</hi> and that ſhe was not the Author of the Book, though the day before ſhe had confeſſed and owned that ſhe did it, but as to the proof of that, one <hi>John Peny</hi> ſwore in Court, that he bought two of them of her at her own houſe in <hi>Arundel-ſtreet</hi> in the Pariſh aforeſaid, giving for the ſame the ſum of four ſhillings, and that ſhe owned to him that they were her own, that is, that ſhe was Author of the Libel; upon which, after her having made a long Apology for her ſelf, the Court gave the Jury their Charge, who going out and ſtaying about half an hour, brought her in guil<g ref="char:EOLhyphen"/>ty of the Miſdemeanour or Treſpaſs, and ſhe was ordered into Cuſtody under the juriſdiction of the Keeper of Newgate, and all the ſaid Libels that could be found in her houſe or elſewh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re appertaining to her, were ordered to be ſecu<g ref="char:EOLhyphen"/>red.</p>
+               <p>She is Fined one Thouſand pound to the King, to be kept in Priſon till that be paid; ſhe is to ſtand Three ſeveral times in the Pillory, Firſt, by the <hi>May-pole</hi> in the <hi>Strand,</hi> Secondly, in <hi>Convent-garden,</hi> Thirdly, at <hi>Charing-croſs;</hi> her Books being to be Burnt in her view; and after to find Sureties for her good Behaviour during Life.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Davies.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
